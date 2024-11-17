@@ -2,6 +2,8 @@
 
 **by Michael Curley (G00376456@atu.ie)**
 
+![Computer Infrastructure](./images/computer_infrastructure.png)
+
 
 <div>
 <a target="_blank" href="https://docs.python.org/3/tutorial/index.html">
