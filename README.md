@@ -57,6 +57,7 @@ writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-wr
   * [2.1 Getting Started](#22-getting-started)
 * [3.0 Get Started](#30-get-started)
   * [3.1 To get started follow these instructions](#31-to-get-stated-with-this-project-please-follow-these-steps)
+  * [3.2 Using GitHub codespaces](#32-using-github-codespaces-to-complete-the-tasks)
 * [4.0 Get Help](#40-get-help)
   * [4.1 Issue Tracker](#41-issue-tracker)
   * [4.2 Contact Us](#42-contact-us)
