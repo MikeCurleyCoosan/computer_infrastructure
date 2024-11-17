@@ -1,6 +1,6 @@
-# My Assessment Repository
+# Computer Infrastructure
 
-**by Michael Curley (g00376456@atu.ie)**
+**by Michael Curley (G00376456@atu.ie)**
 
 
 <div>
@@ -115,7 +115,25 @@ control system designed to handle everything from small to very large projects w
 
 5. Navigate to the project directory in VS Code.
 
-6. 
+6. Use the weather.ipynb notebook to follow along with the various tasks undertaken during the course of the project. These tasks are using the command line. You may complete these tasks on the command line of the Visual Studio Code distribution you have downloaded above, or you may use GitHub codespaces to complete the tasks. Instructions on using GitHub codespaces are given below if you would rather use this option, which will enable you to complete the tasks without following the steps 1-5 above.
+
+
+### 3.2 Using GitHub Codespaces to complete the tasks:
+
+1. Create a GitHub account if you don't already have one. You may create a GitHub accound by following the link given ![here](https://github.com). 
+
+2. Create a new repository called 'Computer_Infrastructure' in your GitHub account. 
+
+3. Navigate to your new repository. 
+
+4. In your repository click on the green `<> Code` button as shown in the image below.
+
+![codespaces](./images/codespaces.png)
+
+5. Click the Codespaces button at the top of the new window that pops up when you click the green button above.
+
+6. Click create codespace if its your first time using codespace in this repository, otherwise click on your existing codespace.
+
 
 ----
 ## 4.0 Get Help
