@@ -135,6 +135,12 @@ control system designed to handle everything from small to very large projects w
 
 6. Click create codespace if its your first time using codespace in this repository, otherwise click on your existing codespace.
 
+7. Open the weather notebook using this clickable link and follow along with the notebook in the command line environment on your codespace. 
+
+<a target="_blank" href="https://colab.research.google.com/github/MikeCurleyCoosan/computer_infrastructure/blob/main/weather.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ----
 ## 4.0 Get Help
