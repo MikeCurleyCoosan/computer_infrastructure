@@ -121,7 +121,7 @@ control system designed to handle everything from small to very large projects w
 
 ### 3.2 Using GitHub Codespaces to complete the tasks:
 
-1. Create a GitHub account if you don't already have one. You may create a GitHub accound by following the link given ![here](https://github.com). 
+1. Create a GitHub account if you don't already have one. You may create a GitHub accound by following the link given [here](https://github.com). 
 
 2. Create a new repository called 'Computer_Infrastructure' in your GitHub account. 
 
