@@ -2,6 +2,8 @@
 
 **by Michael Curley (G00376456@atu.ie)**
 
+![Computer Infrastructure](./images/computer_infrastructure.png)
+
 
 <div>
 <a target="_blank" href="https://docs.python.org/3/tutorial/index.html">
@@ -40,13 +42,11 @@ alt="Jupyter Notebook"/>
 
 -----
 
-_This README has being written with [GitHub's Documentation on README's](https://docs.github.com/en/repositories/
-managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind. You should 
+_This README has being written with [GitHub's Documentation on README's](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind. You should 
 refer to that documentation for more information on writing an appropriate README for visitors to your 
 repository._
 
-_You can find out more about writing in MarkDown in [GitHub Documentation](https://docs.github.com/en/get-started/
-writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)_
+_You can find out more about writing in MarkDown in [GitHub Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)_
 
 ---
 
@@ -134,6 +134,12 @@ control system designed to handle everything from small to very large projects w
 5. Click the Codespaces button at the top of the new window that pops up when you click the green button above.
 
 6. Click create codespace if its your first time using codespace in this repository, otherwise click on your existing codespace.
+
+7. Open the weather notebook using this clickable link and follow along with the notebook in the command line environment on your codespace. 
+
+<a target="_blank" href="https://colab.research.google.com/github/MikeCurleyCoosan/computer_infrastructure/blob/main/weather.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 ----
