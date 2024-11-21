@@ -10,7 +10,7 @@ permissions:
   contents: write # Grant write permissions to push changes
 
 jobs:
-  run-stocks:
+  run-weather script and push changes:
     runs-on: ubuntu-latest
 
     steps:
