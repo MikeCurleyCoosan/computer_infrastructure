@@ -1,0 +1,46 @@
+name: Run Stocks Script and Push Changes
+
+on:
+  schedule:
+    # Runs daily at 10:00 AM UTC
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write # Grant write permissions to push changes
+
+jobs:
+  run-stocks:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Check out the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: true # Ensures credentials are available for pushing changes
+
+    # Step 2: Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    # Step 3: Install dependencies
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    # Step 4: Run the script
+    - name: Run weather.sh script
+      run: ./weather.sh
+
+    # Step 5: Commit and push changes back to the repository
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Automated changes by stocks.py script" || echo "No changes to commit"
+        git push origin main
