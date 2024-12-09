@@ -1,0 +1,199 @@
+name,temperature,symbol,weatherDescription,text,windSpeed,windGust,cardinalWindDirection,windDirection,humidity,rainfall,pressure,dayName,date,reportTime
+Athenry,1,02n,Fair,"""Fair""",7,-,W,270,89,0.0,1008,Friday,2024-11-22,00:00
+Athenry,1,02n,Fair,"""Fair""",15,-,W,270,85,0.0,1008,Friday,2024-11-22,01:00
+Athenry,2,05n,Rain showers,"""Moderate Rain shower""",15,-,W,270,92,0.3,1008,Friday,2024-11-22,02:00
+Athenry,1,02n,Fair,"""Fair""",9,-,W,270,91,0.0,1008,Friday,2024-11-22,03:00
+Athenry,1,02n,Fair,"""Fair""",9,-,W,270,91,0.0,1008,Friday,2024-11-22,04:00
+Athenry,1,02n,Fair,"""Fair""",7,-,W,270,90,0.0,1008,Friday,2024-11-22,05:00
+Athenry,1,02n,Fair,"""Fair""",11,-,W,270,85,0.0,1009,Friday,2024-11-22,06:00
+Athenry,1,02n,Fair,"""Fair""",9,-,W,270,90,0.0,1009,Friday,2024-11-22,07:00
+Athenry,2,02d,Fair,"""Fair""",11,-,W,270,87,0.0,1010,Friday,2024-11-22,08:00
+Athenry,1,02d,Fair,"""Fair""",6,-,W,270,89,0.0,1010,Friday,2024-11-22,09:00
+Athenry,3,46d,Light rain ,"""Recent Drizzle """,7,-,W,270,84,0.01,1010,Friday,2024-11-22,10:00
+Athenry,3,46n,Light rain ,"""Light rain """,30,50,SE,135,92,1.6,998,Saturday,2024-11-23,00:00
+Athenry,4,09n,Rain,"""Moderate rain """,31,56,SE,135,93,4.0,994,Saturday,2024-11-23,01:00
+Athenry,5,46n,Light rain ,"""Light rain """,31,57,SE,135,92,2.1,989,Saturday,2024-11-23,02:00
+Athenry,6,09n,Rain,"""Moderate rain """,30,56,SE,135,93,4.8,985,Saturday,2024-11-23,03:00
+Athenry,10,09n,Rain,"""Moderate rain """,28,50,S,180,93,4.9,983,Saturday,2024-11-23,04:00
+Athenry,12,09n,Rain,"""Moderate rain """,28,50,S,180,95,2.9,981,Saturday,2024-11-23,05:00
+Athenry,12,46n,Light rain ,"""Light rain """,26,46,S,180,95,4.2,980,Saturday,2024-11-23,06:00
+Athenry,13,09n,Rain,"""Moderate rain """,26,54,S,180,95,2.6,979,Saturday,2024-11-23,07:00
+Athenry,13,46d,Light rain ,"""Moderate Drizzle """,28,-,SW,225,97,2.3,979,Saturday,2024-11-23,08:00
+Athenry,13,46d,Light rain ,"""Recent Drizzle """,22,43,SW,225,95,0.3,979,Saturday,2024-11-23,09:00
+Athenry,14,40d,Light rain showers,"""Recent Rain""",28,48,SW,225,91,0.5,980,Saturday,2024-11-23,10:00
+Athenry,10,05n,Rain showers,"""Rain shower""",35,61,SW,225,90,0.4,976,Sunday,2024-11-24,00:00
+Athenry,10,40n,Light rain showers,"""Recent Rain""",31,52,SW,225,79,0.2,977,Sunday,2024-11-24,01:00
+Athenry,9,02n,Fair,"""Fair""",24,46,SW,225,75,0.0,977,Sunday,2024-11-24,02:00
+Athenry,8,05n,Rain showers,"""Rain shower""",19,56,S,180,83,0.01,977,Sunday,2024-11-24,03:00
+Athenry,8,04n,Cloudy,"""Cloudy""",19,-,S,180,81,0.1,977,Sunday,2024-11-24,04:00
+Athenry,7,40n,Light rain showers,"""Recent Rain""",17,39,S,180,84,0.01,978,Sunday,2024-11-24,05:00
+Athenry,8,02n,Fair,"""Fair""",20,-,S,180,81,0.0,978,Sunday,2024-11-24,06:00
+Athenry,7,40n,Light rain showers,"""Recent Rain""",22,-,S,180,87,0.1,978,Sunday,2024-11-24,07:00
+Athenry,8,46d,Light rain ,"""Recent Drizzle """,22,-,S,180,84,0.01,978,Sunday,2024-11-24,08:00
+Athenry,8,40d,Light rain showers,"""Recent Rain""",20,-,S,180,87,0.3,978,Sunday,2024-11-24,09:00
+Athenry,9,05d,Rain showers,"""Rain shower""",22,44,S,180,88,0.3,979,Sunday,2024-11-24,10:00
+Athenry,8,04n,Cloudy,"""Cloudy""",15,-,W,270,75,0.0,987,Monday,2024-11-25,00:00
+Athenry,8,02n,Fair,"""Fair""",19,39,W,270,71,0.0,988,Monday,2024-11-25,01:00
+Athenry,8,02n,Fair,"""Fair""",17,39,W,270,74,0.0,988,Monday,2024-11-25,02:00
+Athenry,6,02n,Fair,"""Fair""",7,41,W,270,79,0.0,989,Monday,2024-11-25,03:00
+Athenry,6,02n,Fair,"""Fair""",9,-,W,270,79,0.0,990,Monday,2024-11-25,04:00
+Athenry,7,04n,Cloudy,"""Cloudy""",17,-,W,270,69,0.0,991,Monday,2024-11-25,05:00
+Athenry,7,04n,Cloudy,"""Cloudy""",9,-,W,270,75,0.0,992,Monday,2024-11-25,06:00
+Athenry,7,04n,Cloudy,"""Cloudy""",9,-,W,270,80,0.0,993,Monday,2024-11-25,07:00
+Athenry,6,04d,Cloudy,"""Cloudy""",9,-,SW,225,85,0.0,994,Monday,2024-11-25,08:00
+Athenry,6,04d,Cloudy,"""Cloudy""",9,-,W,270,82,0.0,996,Monday,2024-11-25,09:00
+Athenry,7,04d,Cloudy,"""Cloudy""",9,-,W,270,82,0.0,997,Monday,2024-11-25,10:00
+Athenry,0,02n,Fair,"""Fair""",6,-,S,180,98,0.0,1008,Tuesday,2024-11-26,00:00
+Athenry,1,02n,Fair,"""Fair""",6,-,SW,225,96,0.0,1009,Tuesday,2024-11-26,01:00
+Athenry,0,04n,Cloudy,"""Cloudy""",2,-,SW,225,98,0.0,1009,Tuesday,2024-11-26,02:00
+Athenry,-1,02n,Fair,"""Fair""",2,-,S,180,96,0.0,1010,Tuesday,2024-11-26,03:00
+Athenry,-1,02n,Fair,"""Fair""",4,-,S,180,99,0.0,1010,Tuesday,2024-11-26,04:00
+Athenry,-2,15n,Fog / Mist,"""Mist""",4,-,S,180,97,0.0,1011,Tuesday,2024-11-26,05:00
+Athenry,-2,02n,Fair,"""Fair""",4,-,NE,45,97,0.0,1011,Tuesday,2024-11-26,06:00
+Athenry,-2,02n,Fair,"""Fair""",4,-,S,180,98,0.0,1012,Tuesday,2024-11-26,07:00
+Athenry,1,02d,Fair,"""Fair""",6,-,S,180,98,0.0,1013,Tuesday,2024-11-26,08:00
+Athenry,2,04d,Cloudy,"""Cloudy""",9,-,S,180,96,0.0,1013,Tuesday,2024-11-26,09:00
+Athenry,2,02d,Fair,"""Fair""",4,-,S,180,96,0.0,1014,Tuesday,2024-11-26,10:00
+Athenry,0,15n,Fog / Mist,"""Mist""",6,-,NE,45,98,0.0,1015,Wednesday,2024-11-27,00:00
+Athenry,0,15n,Fog / Mist,"""Fog thickening""",6,-,NE,45,99,0.0,1015,Wednesday,2024-11-27,01:00
+Athenry,-1,15n,Fog / Mist,"""Fog""",2,-,NE,45,98,0.0,1015,Wednesday,2024-11-27,02:00
+Athenry,-2,15n,Fog / Mist,"""Fog thickening""",6,-,NW,315,98,0.0,1015,Wednesday,2024-11-27,03:00
+Athenry,-3,15n,Fog / Mist,"""Fog""",6,-,N,0,97,0.0,1015,Wednesday,2024-11-27,04:00
+Athenry,-3,15n,Fog / Mist,"""Fog thickening""",2,-,NW,315,98,0.0,1015,Wednesday,2024-11-27,05:00
+Athenry,-2,15n,Fog / Mist,"""Fog thickening""",4,-,N,0,98,0.0,1016,Wednesday,2024-11-27,06:00
+Athenry,-3,15n,Fog / Mist,"""Fog thinning""",4,-,NW,315,98,0.0,1016,Wednesday,2024-11-27,07:00
+Athenry,-3,15d,Fog / Mist,"""Fog thickening""",2,-,N,0,97,0.0,1017,Wednesday,2024-11-27,08:00
+Athenry,-3,15d,Fog / Mist,"""Fog thinning""",4,-,N,0,97,0.0,1018,Wednesday,2024-11-27,09:00
+Athenry,-2,15d,Fog / Mist,"""Fog thickening""",4,-,SE,135,99,0.0,1018,Wednesday,2024-11-27,10:00
+Athenry,-2,15n,Fog / Mist,"""Mist""",11,-,E,90,95,0.0,1022,Thursday,2024-11-28,00:00
+Athenry,-2,02n,Fair,"""Fair""",13,-,E,90,94,0.0,1022,Thursday,2024-11-28,01:00
+Athenry,-2,02n,Fair,"""Fair""",17,-,E,90,92,0.0,1022,Thursday,2024-11-28,02:00
+Athenry,-1,04n,Cloudy,"""Cloudy""",17,-,E,90,92,0.0,1021,Thursday,2024-11-28,03:00
+Athenry,0,04n,Cloudy,"""Cloudy""",17,-,E,90,92,0.0,1021,Thursday,2024-11-28,04:00
+Athenry,0,04n,Cloudy,"""Cloudy""",17,-,E,90,94,0.0,1020,Thursday,2024-11-28,05:00
+Athenry,1,04n,Cloudy,"""Cloudy""",19,-,E,90,93,0.0,1020,Thursday,2024-11-28,06:00
+Athenry,3,04n,Cloudy,"""Cloudy""",19,-,SE,135,91,0.0,1019,Thursday,2024-11-28,07:00
+Athenry,4,04d,Cloudy,"""Cloudy""",19,-,E,90,90,0.0,1019,Thursday,2024-11-28,08:00
+Athenry,6,46d,Light rain ,"""Light rain """,17,-,SE,135,88,0.01,1018,Thursday,2024-11-28,09:00
+Athenry,7,46d,Light rain ,"""Light rain """,20,-,SE,135,88,0.5,1018,Thursday,2024-11-28,10:00
+Athenry,13,02n,Fair,"""Fair""",19,46,S,180,77,0.0,1014,Friday,2024-11-29,00:00
+Athenry,13,02n,Fair,"""Fair""",30,-,S,180,80,0.0,1013,Friday,2024-11-29,01:00
+Athenry,13,04n,Cloudy,"""Cloudy""",24,43,S,180,81,0.0,1013,Friday,2024-11-29,02:00
+Athenry,13,04n,Cloudy,"""Cloudy""",24,46,S,180,80,0.0,1013,Friday,2024-11-29,03:00
+Athenry,13,04n,Cloudy,"""Cloudy""",28,56,S,180,79,0.0,1013,Friday,2024-11-29,04:00
+Athenry,13,04n,Cloudy,"""Cloudy""",24,43,S,180,80,0.0,1012,Friday,2024-11-29,05:00
+Athenry,13,04n,Cloudy,"""Cloudy""",22,44,S,180,79,0.0,1012,Friday,2024-11-29,06:00
+Athenry,13,04n,Cloudy,"""Cloudy""",22,46,S,180,79,0.0,1011,Friday,2024-11-29,07:00
+Athenry,13,04d,Cloudy,"""Cloudy""",24,-,SE,135,81,0.0,1011,Friday,2024-11-29,08:00
+Athenry,13,05d,Rain showers,"""Rain shower""",20,-,SE,135,89,0.2,1011,Friday,2024-11-29,09:00
+Athenry,12,46d,Light rain ,"""Moderate Drizzle """,19,-,SE,135,91,0.3,1010,Friday,2024-11-29,10:00
+Athenry,12,04n,Cloudy,"""Cloudy""",11,-,S,180,91,0.0,1012,Saturday,2024-11-30,00:00
+Athenry,12,04n,Cloudy,"""Cloudy""",9,-,S,180,90,0.0,1012,Saturday,2024-11-30,01:00
+Athenry,11,02n,Fair,"""Fair""",11,-,SW,225,93,0.0,1013,Saturday,2024-11-30,02:00
+Athenry,11,02n,Fair,"""Fair""",4,-,S,180,94,0.0,1013,Saturday,2024-11-30,03:00
+Athenry,10,02n,Fair,"""Fair""",7,-,SW,225,96,0.0,1013,Saturday,2024-11-30,04:00
+Athenry,11,02n,Fair,"""Fair""",6,-,S,180,95,0.0,1013,Saturday,2024-11-30,05:00
+Athenry,11,02n,Fair,"""Fair""",11,-,S,180,94,0.0,1013,Saturday,2024-11-30,06:00
+Athenry,12,02n,Fair,"""Fair""",13,-,S,180,92,0.0,1012,Saturday,2024-11-30,07:00
+Athenry,12,04d,Cloudy,"""Cloudy""",17,-,SE,135,91,0.0,1012,Saturday,2024-11-30,08:00
+Athenry,12,02d,Fair,"""Fair""",13,-,S,180,90,0.1,1012,Saturday,2024-11-30,09:00
+Athenry,14,04d,Cloudy,"""Cloudy""",19,-,S,180,88,0.0,1011,Saturday,2024-11-30,10:00
+Athenry,11,02n,Fair,"""Fair""",9,-,S,180,91,0.0,1006,Sunday,2024-01-12,00:00
+Athenry,11,02n,Fair,"""Fair""",13,-,S,180,90,0.0,1006,Sunday,2024-01-12,01:00
+Athenry,11,02n,Fair,"""Fair""",11,-,S,180,90,0.0,1005,Sunday,2024-01-12,02:00
+Athenry,11,04n,Cloudy,"""Cloudy""",7,-,S,180,92,0.0,1005,Sunday,2024-01-12,03:00
+Athenry,11,04n,Cloudy,"""Cloudy""",9,-,S,180,94,0.1,1005,Sunday,2024-01-12,04:00
+Athenry,11,46n,Light rain ,"""Recent Drizzle """,13,-,SW,225,95,0.1,1004,Sunday,2024-01-12,05:00
+Athenry,11,04n,Cloudy,"""Cloudy""",15,-,SW,225,94,0.0,1004,Sunday,2024-01-12,06:00
+Athenry,11,09n,Rain,"""Moderate rain """,13,-,SW,225,97,0.7,1005,Sunday,2024-01-12,07:00
+Athenry,11,05n,Rain showers,"""Rain shower""",13,-,SW,225,98,0.4,1005,Sunday,2024-01-12,08:00
+Athenry,11,05d,Rain showers,"""Rain shower""",7,-,SW,225,98,0.1,1005,Sunday,2024-01-12,09:00
+Athenry,11,05d,Rain showers,"""Rain shower""",13,-,SW,225,98,0.2,1006,Sunday,2024-01-12,10:00
+Athenry,7,02n,Fair,"""Fair""",17,-,NW,315,88,0.0,1013,Monday,2024-02-12,00:00
+Athenry,7,04n,Cloudy,"""Cloudy""",15,-,W,270,85,0.0,1014,Monday,2024-02-12,01:00
+Athenry,7,02n,Fair,"""Fair""",17,-,NW,315,86,0.0,1015,Monday,2024-02-12,02:00
+Athenry,6,46n,Light rain ,"""Moderate Drizzle """,26,-,NW,315,86,0.01,1016,Monday,2024-02-12,03:00
+Athenry,5,46n,Light rain ,"""Recent Drizzle """,15,-,NW,315,89,0.01,1017,Monday,2024-02-12,04:00
+Athenry,5,02n,Fair,"""Fair""",11,-,NW,315,89,0.0,1017,Monday,2024-02-12,05:00
+Athenry,4,02n,Fair,"""Fair""",13,-,W,270,87,0.0,1018,Monday,2024-02-12,06:00
+Athenry,5,02n,Fair,"""Fair""",20,-,NW,315,84,0.0,1018,Monday,2024-02-12,07:00
+Athenry,4,02n,Fair,"""Fair""",15,-,NW,315,86,0.0,1020,Monday,2024-02-12,08:00
+Athenry,4,02d,Fair,"""Fair""",11,-,NW,315,87,0.0,1021,Monday,2024-02-12,09:00
+Athenry,6,04d,Cloudy,"""Cloudy""",15,-,NW,315,86,0.0,1021,Monday,2024-02-12,10:00
+Athenry,0,02n,Fair,"""Fair""",9,-,E,90,95,0.0,1022,Tuesday,2024-03-12,00:00
+Athenry,0,02n,Fair,"""Fair""",9,-,E,90,94,0.0,1021,Tuesday,2024-03-12,01:00
+Athenry,0,02n,Fair,"""Fair""",9,-,E,90,93,0.0,1021,Tuesday,2024-03-12,02:00
+Athenry,0,04n,Cloudy,"""Cloudy""",9,-,E,90,94,0.0,1021,Tuesday,2024-03-12,03:00
+Athenry,1,02n,Fair,"""Fair""",9,-,E,90,94,0.0,1020,Tuesday,2024-03-12,04:00
+Athenry,1,02n,Fair,"""Fair""",9,-,E,90,94,0.0,1020,Tuesday,2024-03-12,05:00
+Athenry,1,04n,Cloudy,"""Cloudy""",13,-,E,90,93,0.0,1020,Tuesday,2024-03-12,06:00
+Athenry,1,04n,Cloudy,"""Cloudy""",11,-,E,90,94,0.0,1020,Tuesday,2024-03-12,07:00
+Athenry,1,02n,Fair,"""Fair""",13,-,E,90,94,0.0,1019,Tuesday,2024-03-12,08:00
+Athenry,1,02d,Fair,"""Fair""",9,-,E,90,93,0.0,1020,Tuesday,2024-03-12,09:00
+Athenry,2,02d,Fair,"""Fair""",6,-,E,90,90,0.0,1020,Tuesday,2024-03-12,10:00
+Athenry,2,15n,Fog / Mist,"""Fog thinning""",2,-,S,180,98,0.0,1024,Wednesday,2024-04-12,00:00
+Athenry,2,15n,Fog / Mist,"""Fog thickening""",-,-,,0,99,0.0,1024,Wednesday,2024-04-12,01:00
+Athenry,2,15n,Fog / Mist,"""Fog""",4,-,E,90,99,0.0,1023,Wednesday,2024-04-12,02:00
+Athenry,1,15n,Fog / Mist,"""Fog thinning""",6,-,E,90,99,0.0,1023,Wednesday,2024-04-12,03:00
+Athenry,1,15n,Fog / Mist,"""Recent Fog""",4,-,E,90,99,0.0,1022,Wednesday,2024-04-12,04:00
+Athenry,1,15n,Fog / Mist,"""Mist""",-,-,,0,99,0.0,1022,Wednesday,2024-04-12,05:00
+Athenry,2,15n,Fog / Mist,"""Fog thickening""",4,-,SE,135,99,0.0,1021,Wednesday,2024-04-12,06:00
+Athenry,3,15n,Fog / Mist,"""Fog""",7,-,E,90,99,0.0,1020,Wednesday,2024-04-12,07:00
+Athenry,5,15n,Fog / Mist,"""Recent Fog""",7,-,E,90,96,0.0,1019,Wednesday,2024-04-12,08:00
+Athenry,7,04d,Cloudy,"""Cloudy""",17,-,SE,135,91,0.0,1018,Wednesday,2024-04-12,09:00
+Athenry,9,04d,Cloudy,"""Cloudy""",15,-,S,180,93,0.0,1016,Wednesday,2024-04-12,10:00
+Athenry,11,15n,Fog / Mist,"""Mist""",7,-,SW,225,89,0.0,1006,Thursday,2024-05-12,00:00
+Athenry,11,46n,Light rain ,"""Light rain """,15,-,W,270,86,0.01,1007,Thursday,2024-05-12,01:00
+Athenry,10,40n,Light rain showers,"""Recent Rain""",9,-,W,270,95,0.1,1006,Thursday,2024-05-12,02:00
+Athenry,10,04n,Cloudy,"""Cloudy""",11,-,W,270,94,0.0,1007,Thursday,2024-05-12,03:00
+Athenry,9,02n,Fair,"""Fair""",13,-,W,270,94,0.0,1007,Thursday,2024-05-12,04:00
+Athenry,9,02n,Fair,"""Fair""",9,-,S,180,92,0.1,1006,Thursday,2024-05-12,05:00
+Athenry,10,04n,Cloudy,"""Cloudy""",11,-,SW,225,87,0.0,1006,Thursday,2024-05-12,06:00
+Athenry,10,04n,Cloudy,"""Cloudy""",11,-,SW,225,89,0.0,1005,Thursday,2024-05-12,07:00
+Athenry,10,05n,Rain showers,"""Rain shower""",11,-,SW,225,94,0.01,1004,Thursday,2024-05-12,08:00
+Athenry,10,46d,Light rain ,"""Recent Drizzle """,11,-,SW,225,93,0.2,1003,Thursday,2024-05-12,09:00
+Athenry,11,46d,Light rain ,"""Light rain """,20,-,SW,225,98,0.6,1001,Thursday,2024-05-12,10:00
+Athenry,3,02n,Fair,"""Fair""",6,-,W,270,92,0.0,1015,Friday,2024-06-12,00:00
+Athenry,3,02n,Fair,"""Fair""",7,-,W,270,94,0.0,1016,Friday,2024-06-12,01:00
+Athenry,2,02n,Fair,"""Fair""",4,-,SW,225,92,0.0,1017,Friday,2024-06-12,02:00
+Athenry,3,02n,Fair,"""Fair""",6,-,W,270,94,0.0,1017,Friday,2024-06-12,03:00
+Athenry,3,02n,Fair,"""Fair""",7,-,S,180,95,0.0,1017,Friday,2024-06-12,04:00
+Athenry,3,02n,Fair,"""Fair""",4,-,S,180,96,0.0,1017,Friday,2024-06-12,05:00
+Athenry,3,04n,Cloudy,"""Cloudy""",4,-,S,180,94,0.0,1016,Friday,2024-06-12,06:00
+Athenry,5,04n,Cloudy,"""Cloudy""",4,-,S,180,89,0.0,1015,Friday,2024-06-12,07:00
+Athenry,6,04n,Cloudy,"""Cloudy""",6,-,S,180,88,0.0,1014,Friday,2024-06-12,08:00
+Athenry,6,46d,Light rain ,"""Light rain """,9,-,S,180,91,0.3,1014,Friday,2024-06-12,09:00
+Athenry,6,46d,Light rain ,"""Light rain """,20,-,SE,135,89,0.6,1011,Friday,2024-06-12,10:00
+Athenry,7,,N/A,,57,93,NW,315,-99,1.3,993,Saturday,2024-07-12,00:00
+Athenry,6,,N/A,,46,102,NW,315,-99,1.7,997,Saturday,2024-07-12,01:00
+Athenry,6,,N/A,,54,85,NW,315,-99,0.8,999,Saturday,2024-07-12,02:00
+Athenry,7,,N/A,,52,96,NW,315,-99,0.1,1002,Saturday,2024-07-12,03:00
+Athenry,7,,N/A,,52,89,NW,315,-99,0.0,1003,Saturday,2024-07-12,04:00
+Athenry,7,,N/A,,46,80,NW,315,-99,0.0,1005,Saturday,2024-07-12,05:00
+Athenry,6,,N/A,,43,81,NW,315,-99,0.0,1007,Saturday,2024-07-12,06:00
+Athenry,6,,N/A,,41,89,NW,315,-99,0.0,1009,Saturday,2024-07-12,07:00
+Athenry,6,,N/A,,50,78,NW,315,-99,0.0,1011,Saturday,2024-07-12,08:00
+Athenry,6,,N/A,,44,72,NW,315,-99,0.0,1013,Saturday,2024-07-12,09:00
+Athenry,6,,N/A,,48,80,NW,315,-99,0.1,1014,Saturday,2024-07-12,10:00
+Athenry,4,02n,Fair,"""Fair""",17,-,NW,315,85,0.0,1032,Sunday,2024-08-12,00:00
+Athenry,4,02n,Fair,"""Fair""",15,-,NW,315,87,0.0,1033,Sunday,2024-08-12,01:00
+Athenry,4,40n,Light rain showers,"""Recent Rain""",15,-,NW,315,89,0.01,1034,Sunday,2024-08-12,02:00
+Athenry,3,05n,Rain showers,"""Rain shower""",11,-,NW,315,91,0.1,1035,Sunday,2024-08-12,03:00
+Athenry,3,40n,Light rain showers,"""Recent Precipitation""",2,-,N,0,91,0.01,1036,Sunday,2024-08-12,04:00
+Athenry,2,02n,Fair,"""Fair""",11,-,NW,315,93,0.0,1036,Sunday,2024-08-12,05:00
+Athenry,3,02n,Fair,"""Fair""",15,-,NW,315,92,0.0,1037,Sunday,2024-08-12,06:00
+Athenry,4,04n,Cloudy,"""Cloudy""",13,-,NW,315,92,0.0,1037,Sunday,2024-08-12,07:00
+Athenry,4,46n,Light rain ,"""Recent Drizzle """,11,-,N,0,91,0.01,1038,Sunday,2024-08-12,08:00
+Athenry,4,02d,Fair,"""Fair""",7,-,N,0,89,0.0,1038,Sunday,2024-08-12,09:00
+Athenry,5,02d,Fair,"""Fair""",9,-,W,270,86,0.0,1039,Sunday,2024-08-12,10:00
+Athenry,0,02n,Fair,"""Fair""",6,-,NW,315,94,0.0,1042,Monday,2024-09-12,00:00
+Athenry,-1,02n,Fair,"""Fair""",9,-,N,0,96,0.0,1042,Monday,2024-09-12,01:00
+Athenry,0,02n,Fair,"""Fair""",7,-,N,0,94,0.0,1042,Monday,2024-09-12,02:00
+Athenry,0,02n,Fair,"""Fair""",9,-,N,0,96,0.0,1042,Monday,2024-09-12,03:00
+Athenry,-1,02n,Fair,"""Fair""",9,-,N,0,96,0.0,1042,Monday,2024-09-12,04:00
+Athenry,1,02n,Fair,"""Fair""",11,-,N,0,94,0.0,1042,Monday,2024-09-12,05:00
+Athenry,1,02n,Fair,"""Fair""",7,-,S,180,93,0.0,1042,Monday,2024-09-12,06:00
+Athenry,0,02n,Fair,"""Fair""",4,-,W,270,95,0.0,1042,Monday,2024-09-12,07:00
+Athenry,-1,02n,Fair,"""Fair""",7,-,N,0,96,0.0,1043,Monday,2024-09-12,08:00
+Athenry,-1,02d,Fair,"""Fair""",4,-,N,0,96,0.0,1043,Monday,2024-09-12,09:00
+Athenry,1,02d,Fair,"""Fair""",7,-,N,0,93,0.0,1043,Monday,2024-09-12,10:00
