@@ -217,3 +217,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#Files to keep locally but not commit to GitHub repository
+
+data/weather/hello.sh
