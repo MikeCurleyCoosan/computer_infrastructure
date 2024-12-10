@@ -220,4 +220,4 @@ $RECYCLE.BIN/
 
 #Files to keep locally but not commit to GitHub repository
 
-data/weather/hello.sh
+/data/weather/hello.sh
